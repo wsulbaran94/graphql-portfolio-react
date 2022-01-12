@@ -1,0 +1,29 @@
+{
+  "name": "graphql-portfolio-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": " next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsulbaran94/graphql-portfolio-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wsulbaran94/graphql-portfolio-react/issues"
+  },
+  "homepage": "https://github.com/wsulbaran94/graphql-portfolio-react#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "next": "^12.0.8",
+    "node-sass": "^6.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
