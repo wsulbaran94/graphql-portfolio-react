@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "next",
+    "dev": "node server/index.js",
     "build": " next build",
     "start": "next start"
   },
@@ -21,6 +21,7 @@
   "homepage": "https://github.com/wsulbaran94/graphql-portfolio-react#readme",
   "dependencies": {
     "bootstrap": "^5.1.3",
+    "express": "^4.17.2",
     "next": "^12.0.10",
     "node-sass": "^6.0.1",
     "react": "^17.0.2",
